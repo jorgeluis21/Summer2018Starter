@@ -8,7 +8,7 @@ Thing to do to get started with GIT:
 https://github.com/join
 
 ## Create a new repo
-you can either create a new repo or fork this one
+MAN BRO BRO 
 
 ## Give your instructor write permissions
 you need to give write permission to that repo to your tutor and to @WolframSummerSchoolProjects. Additionally please give write permissions to @abritac and @swedewhite for organizational purposes (you can revoke these at the end of school).
@@ -36,7 +36,7 @@ this contains templates for various notebooks you will be creating and submittin
 
 ## Write a readme using MarkDown
 a nice cheatsheet can be found here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-the readme should contain: 
+the readme should contain:
 1. what your project is about
 2. how to run your code
 3. examples, code documentation, etc
