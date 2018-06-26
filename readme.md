@@ -1,8 +1,6 @@
 # https://wolfr.am/wss2018github
 
-This is a sample student repository for the Wolfram Summer School 2018. You can clone or fork this repository to get started
-
-Thing to do to get started with GIT:
+This is a sample student repository for the Wolfram Summer School 2018. wjhaaaaaaaatstarted with GIT:
 
 ## Create a GitHub account
 https://github.com/join
@@ -36,7 +34,7 @@ this contains templates for various notebooks you will be creating and submittin
 
 ## Write a readme using MarkDown
 a nice cheatsheet can be found here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-the readme should contain: 
+the readme should contain:
 1. what your project is about
 2. how to run your code
 3. examples, code documentation, etc
